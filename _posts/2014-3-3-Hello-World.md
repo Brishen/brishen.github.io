@@ -50,6 +50,8 @@ In 2019, two bills were introduced into the House focusing on making our electio
 * [HR 2722](https://www.congress.gov/bill/116th-congress/house-bill/2722/text)
 * [HR 3412](https://www.congress.gov/bill/116th-congress/house-bill/3412/text)
 
+On December 20, 2019, President Trump signed into law the Consolidated Appropriations Act of 2020, which includes $425 million in new HAVA election security grants that will be distributed to state election offices by the EAC.
+
 ## HR 2722
 
 This bill expands on the HAVA with many provisions.
@@ -174,6 +176,9 @@ That previous bill was pretty comprehensive. Now let's look at the next one:
 
 > "If House Democrats are serious about addressing election security and foreign interference, they should join Republicans to pass a bill which I support and have cosponsored, H.R. 3412, the Election Security Assistance Act. This balanced bill gives local election officials additional resources to secure elections while respecting states’ rights regarding voting processes."
 
+1. Paper ballots are more secure than electronic ballots.
+
+Bill Flores chose not to seek reelection in 2020.
 
 ### [US Representative Cathy Rodgers (R-Washington)](https://mcmorris.house.gov/my-votes-week-of-june-24/)
 
@@ -184,7 +189,13 @@ That previous bill was pretty comprehensive. Now let's look at the next one:
 
 > “Democrats in the House of Representatives continue to pour money into the wrong solutions for serious problems facing our nation. After forcing H.R. 1 through the House earlier this year, they are at it again with H.R. 2722. This bill does nothing to secure our elections, but instead wastes over a billion dollars from the taxpayers on hyper partisan federal mandates aimed at affecting election outcomes.
 
->“Our election infrastructure, over a decade old in many cases, is in dire need of significant upgrades. I am cosponsoring the Election Security Assistance Act, which builds off Republican efforts in the last Congress to provide necessary security improvements while maintaining the autonomy of states and local election officials. This legislation authorizes federal grants to states to help upgrade election systems, and provides security clearances to top election officials to better facilitate the sharing of sensitive election information.Critically, the Republican bill allows DHS officials to alert local state officials when they election system is under cyber-attack – something that is currently prohibited in current law and a provision that Democrats failed to put in their bill. It also creates new resources for election officials, including the first-ever Cyber Assistance Unit.
+>“Our election infrastructure, over a decade old in many cases, is in dire need of significant upgrades. I am cosponsoring the Election Security Assistance Act, which builds off Republican efforts in the last Congress to provide necessary security improvements while maintaining the autonomy of states and local election officials. This legislation authorizes federal grants to states to help upgrade election systems, and provides security clearances to top election officials to better facilitate the sharing of sensitive election information. Critically, the Republican bill allows DHS officials to alert local state officials when they election system is under cyber-attack – something that is currently prohibited in current law and a provision that Democrats failed to put in their bill. It also creates new resources for election officials, including the first-ever Cyber Assistance Unit.
 
 > “Injecting more mandates from the federal government and blindly spending money will not solve our election security problems. I hope my Democrat colleagues realize that, abandon yet another messaging bill that has no meaningful impact, and work with Republicans on real solutions to secure our election infrastructure before 2020.”
 
+1. HR 3412 requires Federal entities to notify the DHS if they are aware of a cybersecurity event. Will Federal entities also be monitoring state election infrastructure too? 
+2. HR 3412 only creates the "Cyber Assistance Unit" and provides it with responsibilities. It does not provide the resources necessary to acquire the necessary expertise to man such a unit.
+3. Total distributed funds for election security grants for HAVA was:
+FY20: $510,000,000
+FY18: $456,000,000
+https://www.eac.gov/sites/default/files/paymentgrants/Funding_Chart_ElectionSecurity.pdf
