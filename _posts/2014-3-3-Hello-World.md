@@ -166,3 +166,25 @@ That previous bill was pretty comprehensive. Now let's look at the next one:
 - The GAO must perform an analysis of requiring paper ballots
 - The EAC must conduct a study on ballot design
 
+## [Reactions to HR 2722](https://projects.propublica.org/represent/bills/116/hr2722/statements)
+
+### [U.S. Representative Bill Flores (R-Texas)](https://flores.house.gov/news/documentsingle.aspx?DocumentID=401214)
+
+> "Free, fair and secure elections are paramount to our democracy. Securing our elections should not be a partisan issue, yet the House Democrat Majority once again cut off all bipartisan efforts to address this issue as they push their hyper-partisan agenda. Earlier this year, the Democrat Majority passed their partisan election reform bill, H.R. 1, which ultimately mandates millions in taxpayer dollars to fund political races. The American public loudly rejected this attempt to federalize the states’ Constitutional responsibilities to administer our elections. In light of that rejection, House Democrats rolled out H.R. 2722, again on a partisan basis. This bill also proposes another federal election takeover of states’ voting processes, and even mandates the return to legacy paper ballots rather than allowing for the use of secure, auditable, 21st century voting systems.  One of the interesting parts of watching this process was watching House Members use our electronic voting system on a bill which would mandate the use of earlier centuries’ paper ballots – I had to chuckle to myself about the contrast of watching House Democrats moving voting processes backward while attempting to give federal bureaucrats control of our Constitutional right to vote. I voted against this bill because it fails to adequately address potential foreign interference in our election process, and it creates a federally mandated, top-down approach that completely ignores the Constitutional authorities of state and local governments. 
+
+> "If House Democrats are serious about addressing election security and foreign interference, they should join Republicans to pass a bill which I support and have cosponsored, H.R. 3412, the Election Security Assistance Act. This balanced bill gives local election officials additional resources to secure elections while respecting states’ rights regarding voting processes."
+
+
+### [US Representative Cathy Rodgers (R-Washington)](https://mcmorris.house.gov/my-votes-week-of-june-24/)
+
+> 	H.R. 2722 was an entirely partisan bill that has [sic]
+
+
+### [US Representative Mike Conaway (R-Texas)](https://conaway.house.gov/news/documentsingle.aspx?DocumentID=399552)
+
+> “Democrats in the House of Representatives continue to pour money into the wrong solutions for serious problems facing our nation. After forcing H.R. 1 through the House earlier this year, they are at it again with H.R. 2722. This bill does nothing to secure our elections, but instead wastes over a billion dollars from the taxpayers on hyper partisan federal mandates aimed at affecting election outcomes.
+
+>“Our election infrastructure, over a decade old in many cases, is in dire need of significant upgrades. I am cosponsoring the Election Security Assistance Act, which builds off Republican efforts in the last Congress to provide necessary security improvements while maintaining the autonomy of states and local election officials. This legislation authorizes federal grants to states to help upgrade election systems, and provides security clearances to top election officials to better facilitate the sharing of sensitive election information.Critically, the Republican bill allows DHS officials to alert local state officials when they election system is under cyber-attack – something that is currently prohibited in current law and a provision that Democrats failed to put in their bill. It also creates new resources for election officials, including the first-ever Cyber Assistance Unit.
+
+> “Injecting more mandates from the federal government and blindly spending money will not solve our election security problems. I hope my Democrat colleagues realize that, abandon yet another messaging bill that has no meaningful impact, and work with Republicans on real solutions to secure our election infrastructure before 2020.”
+
