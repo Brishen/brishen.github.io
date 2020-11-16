@@ -141,3 +141,28 @@ States are required to ensure that, to the great extent practical, voting system
 - Voting machines shall be manufactured in the US, applicable to the 2022 elections and beyond
 
 States must also file a report before each election detailing the usage of electronic poll books and other equipment/systems.
+
+## HR 3412
+That previous bill was pretty comprehensive. Now let's look at the next one:
+
+### Appropriations
+- $380,000,000 for FY20 (starting 10/1/19)
+- Must be matched within 2 years by states equal to 25% of Federal funds
+
+### Security Clearances
+- State election officials may be given an expedited Top Secret (TS) clearance
+
+### DHS Cybersecurity notifications
+- The Secretary of the DHS in consultation with the AG, FBI Director, and DNI shall notify officials within 96 hours of a credible incident that could result in systems being compromised
+- Notification is not neccessary if it could compromise sources/method or interfere with ongoing investigations
+
+### Election Cyber Assistance Unit   
+- Establishes the Election Cyber Assistance Unit in the EAC
+- The Unit will provide State and local election officials in various geographic regions of the United States with access to risk-management, resiliency, and technical support services provided by election administration and cybersecurity experts who will be based in such regions and who may provide such services in person, by telephone, or online.”
+
+### Reports to Congress
+- The DHS and DNI must submit a report on foreign threats to election yearly, with voluntary participation by states
+- The GAO must perform a feasibility analysis on audits
+- The GAO must perform an analysis of requiring paper ballots
+- The EAC must conduct a study on ballot design
+
