@@ -138,6 +138,6 @@ States are required to ensure that, to the great extent practical, voting system
 - Previously certified equipment will be recertified before each election by the EAC
 - Source code must be freely and publically available under a peretual, global license, except for commercial purposes
 - Manufacturers must publically disclose the design of custom or altered hardware
-- Voting machines must be manufactured in the US, applicable to the 2022 elections and beyond
+- Voting machines shall be manufactured in the US, applicable to the 2022 elections and beyond
 
 States must also file a report before each election detailing the usage of electronic poll books and other equipment/systems.
